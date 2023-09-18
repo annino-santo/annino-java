@@ -18,7 +18,6 @@ public class ProvaTest {
         testo = input.next();
                 
         System.out.println(numero);
-        System.out.println(testo);
-        
+        System.out.println(testo);    
     }
 }
